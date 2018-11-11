@@ -5,7 +5,7 @@ with open("README.rst") as readme_file:
 
 setup(
     name="powrap",
-    version="version='0.2.0'",
+    version="0.2.0",
     description="Find an properly reindent .po files.",
     long_description=readme,
     author="Julien Palard",
